@@ -10,7 +10,8 @@ Parallax scrolling effect to use CSS, removes all these issues and allows all th
 ###Step 1: (Create CSS Classes)
 
 ####Create parallax class for parallax scrolling-
-'''HTML
+
+```HTML
 .parallax {
 width: 100%;
 height: 500px;
