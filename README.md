@@ -24,7 +24,7 @@ background-size: cover;
 -o-background-size: cover;
 background-attachment: fixed;
 }
-'''
+```
 
 ```HTML
 ####Create image classes for setup background image-
@@ -35,7 +35,7 @@ background-image: url("images/parallax-img1.jpg");
 .parallax-img2 {
 background-image: url("images/parallax-img2.jpg");
 }
-'''
+```
 
 ##Step 2: (Create content and background sections)
 
@@ -49,6 +49,6 @@ background-image: url("images/parallax-img2.jpg");
 <section class="parallax parallax-img2">
 <h1>Background image section</h1>
 </section>
-'''
+```
 
 Hope this will help!!
