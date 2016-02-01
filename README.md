@@ -26,7 +26,7 @@ background-attachment: fixed;
 }
 '''
 
-'''HTML
+```HTML
 ####Create image classes for setup background image-
 
 .parallax-img1 {
@@ -38,7 +38,8 @@ background-image: url("images/parallax-img2.jpg");
 '''
 
 ##Step 2: (Create content and background sections)
-'''HTML
+
+```HTML
 <section class="parallax parallax-img1">
 <h1>Background image section</h1>
 </section>
