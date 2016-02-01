@@ -26,9 +26,9 @@ background-attachment: fixed;
 }
 ```
 
-```HTML
 ####Create image classes for setup background image-
 
+```HTML
 .parallax-img1 {
 background-image: url("images/parallax-img1.jpg");
 }
