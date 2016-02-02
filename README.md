@@ -1,5 +1,4 @@
 # Parallax-scrolling-using-CSS
-Parallax scrolling using CSS
 
 Parallax is a scrolling technique used in background images move slowly with content and background images. It is handled with Javascript, jQuery and more but it’s implemented badly with browsers and when scroll event is modifying, trigger and updates the DOM.
 
