@@ -1,9 +1,11 @@
 # Parallax-scrolling-using-CSS
 Parallax scrolling using CSS
 
-Parallax scrolling is handled with Javascripts, jQuery and more, it's implemented badly with the worst offenders listening for the scroll event and modifying the DOM directly in the handler, trigger and always update DOM.
+Parallax is a scrolling technique used in background images move slowly with content and background images. It is handled with Javascript, jQuery and more but it’s implemented badly with browsers and when scroll event is modifying, trigger and updates the DOM.
 
-Parallax scrolling effect to use CSS, removes all these issues and allows all the browser. The result is consistent frame rates and perfectly smooth scrolling. You can also combine the effect with other CSS features such as media queries and more.
+So here, I’m using by CSS and it’s also compatible all browser and devices. Using css parallax make scrolling perfect and smooth with background images. You can also combine the effect with other CSS features such as media queries and more.
+
+To create parallax, there are using CSS element “background-attachment : fixed“. The role of these element to fixed background images in body and shows only that particular section.
 
 ##How to use:
 
